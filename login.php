@@ -138,20 +138,16 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
 <h1 class="heading">OUR FACULTY</h1>
 <div class="box-container">
     <div class="box">
-        <img src="https://www.charusat.ac.in/depstar/cse/img/faculties/12.png" alt="">
-        <h3 class="price">CSE</h3>
+        <img src="https://www.charusat.ac.in/depstar/it/img/faculties/1.png" alt="">
+        <h3 class="price">CSE/CE/IT</h3>
         <div class="content">
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half"></i>
-            </div>
-            <a href="#" class="title">AISHWARIYA BUDHRANI</a>
+           
+            <a href="#" class="title">DR. AMIT GANATRA</a>
         <p>
-            C language is used to develop system applications that forms major portion of operating systems such as Windows, UNIX and Linux.
-            Operating systems, C compiler and all UNIX application programs are written in C language.
+            <center><p><br><b><font size= "6">DESIGNATION : </font></b><font size= "6"> PRINCIPAL</font></br>
+<br><b><font size = "6">DEPARTMENT : </font></b><font size= "6">CSE-CE-IT</font></br>
+<br><b><font size = "6">DOMAIN : </font></b><font size= "6">Data Mining, Cloud Computing, Artificial Intelligence, Machine Learning and Soft Computing.</font></br>
+<br><b><font size = "6">EMAIL : </font></b><font size= "6">amitganatra.ce@charusat.org</font></br></p></center>
         </p>
         <div class="info">
             <h3><i class="far fa-clock"></i>3 hours</h3>
